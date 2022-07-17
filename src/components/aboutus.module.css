@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&family=Edu+SA+Beginner&family=Lexend+Deca:wght@100&family=Raleway:wght@300&display=swap');
+
+.container {
+    overflow-x: hidden;
+    overflow: hidden;
+    position: relative;
+
+}
+
+
+.main {
+    position: absolute;
+    margin: 150px 30px 30px 700px;
+    font-family:'Edu SA Beginner', cursive;
+    font-size: large;
+}
+
+.main h1 {
+    color: grey;
+}
+
+.main p {
+    margin-right: 100px;
+}
+
